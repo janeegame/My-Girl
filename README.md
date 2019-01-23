@@ -1,6 +1,8 @@
+%DemCharlie's Page
+
 # Welcome to DemCharlie's Page
 
-this page includes my daily study notes
+> this page includes my daily study notes
 
 [-] Electric Circuit
 
