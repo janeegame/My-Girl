@@ -1,8 +1,11 @@
 # Welcome to DemCharlie's Page
 
-`this page includes my daily study notes`
+this page includes my daily study notes
 
-- [] [AnalogElectronicTechnology](./AnalogElectronicTechnology.md)
+[-] Electric Circuit
+[+] Digital Circuit Technology
+[%] [Analog Electronic Technology](./AnalogElectronicTechnology.md)
+[#] Quantum Manchanics
 
 # Can you find me in the picture ?
 
