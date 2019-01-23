@@ -2,9 +2,7 @@
 
 `this page includes my daily study notes`
 
-- [x] [AnalogElectronicTechnology](./AnalogElectronicTechnology.md)
-
-<myPage/AnalogElectronicTechnology.md>
+- [] [AnalogElectronicTechnology](./AnalogElectronicTechnology.md)
 
 # Can you find me in the picture ?
 
