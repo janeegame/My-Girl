@@ -3,7 +3,7 @@
 `this page includes my daily study notes`
 Analog Electronic Technology [找不到文件](./AnalogElectronicTechnology.md)
 
-<./AnalogElectronicTechnology.md>
+<  myPage/AnalogElectronicTechnology.md  >
 
 # Can you find me in the picture ?
 
