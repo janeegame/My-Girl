@@ -4,9 +4,9 @@
 
 > this page includes my daily study notes
 
-- [ ] Electric Circuit
+- [ ] [Electric Circuit](./ElectricCircuit.md)
 
-- [x] Digital Circuit Technology
+- [x] [Digital Circuit Technology](./404.html)
 
 - [ ] [Analog Electronic Technology](./AnalogElectronicTechnology.md)
 
