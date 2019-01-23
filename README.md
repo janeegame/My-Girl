@@ -10,6 +10,10 @@
 
 - [ ] [Analog Electronic Technology](./AnalogElectronicTechnology.md)
 
+- [x] [Linux Notes](./LinuxNotes.md)
+
+- [ ] [Data Structures](./DataStructures.md)
+
 - [ ] Quantum Manchanics
 
 # Can you find me in this picture ?
