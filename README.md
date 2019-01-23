@@ -1,4 +1,4 @@
-%DemCharlie's Page
+% DemCharlie's Page
 
 # Welcome to DemCharlie's Page
 
