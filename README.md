@@ -1,7 +1,8 @@
 # Welcome to DemCharlie's Page
 
-janeegame 
-: 我常用的名字
+`this page includes my daily study notes`
+Analog Electronic Technology [fileName](./Analog Electronic Technology.md)
+
 
 # Can you find me in the picture ?
 
