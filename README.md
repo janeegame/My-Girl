@@ -2,13 +2,13 @@
 
 this page includes my daily study notes
 
-- [-] Electric Circuit
+[-] Electric Circuit
 
-- [+] Digital Circuit Technology
+[+] Digital Circuit Technology
 
-- [%] [Analog Electronic Technology](./AnalogElectronicTechnology.md)
+[%] [Analog Electronic Technology](./AnalogElectronicTechnology.md)
 
-- [#] Quantum Manchanics
+[#] Quantum Manchanics
 
 # Can you find me in the picture ?
 
