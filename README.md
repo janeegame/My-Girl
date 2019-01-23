@@ -1,8 +1,9 @@
 # Welcome to DemCharlie's Page
 
 `this page includes my daily study notes`
-Analog Electronic Technology [fileName](./Analog Electronic Technology.md)
+Analog Electronic Technology [找不到文件](./AnalogElectronicTechnology.md)
 
+<./AnalogElectronicTechnology.md>
 
 # Can you find me in the picture ?
 
