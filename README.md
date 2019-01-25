@@ -2,19 +2,19 @@
 
 # Welcome to DemCharlie's Page
 
-> this page includes my daily study notes
+`this page includes my daily study notes`
 
-- [ ] [Electric Circuit](./ElectricCircuit.md)
+[ ] [Electric Circuit](./ElectricCircuit.md)
 
-- [x] [Digital Circuit Technology](./404.html)
+[x] [Digital Circuit Technology](./404.html)
 
-- [ ] [Analog Electronic Technology](./AnalogElectronicTechnology.md)
+[ ] [Analog Electronic Technology](./AnalogElectronicTechnology.md)
 
-- [x] [Linux Notes](./LinuxNotes.md)
+[x] [Linux Notes](./LinuxNotes.md)
 
-- [ ] [Data Structures](./DataStructures.md)
+[ ] [Data Structures](./DataStructures.md)
 
-- [ ] Quantum Manchanics
+[ ] Quantum Manchanics
 
 # Can you find me in this picture ?
 
