@@ -76,6 +76,9 @@ MUX(multiplexer)
 JTAG(Join Test Action Group)
 : 调试程序
 
+FRAM(ferromagnetic Ramdom Access Memory)
+: 铁电存储器
+
 # inMSP430
 RTC(Real-Time Clock)
 
