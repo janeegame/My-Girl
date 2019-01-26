@@ -4,6 +4,8 @@
 
 `this page includes my daily study notes`
 
+- [Damn Abbreviations](./DamnAbbreviation.md)
+
 - [Electric Circuit](./ElectricCircuit.md)
 
 - [Digital Circuit Technology](./404.html)
