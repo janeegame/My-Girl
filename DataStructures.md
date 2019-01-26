@@ -8,27 +8,29 @@
 
 数据结构的内容包括三个'层次'和五个'要素',
 
-<table>
-    <tr> 
-        <th>层次\要素</td>  
-        <th>数据表示</td> 
-        <th>数据处理</td>
-    </tr>
-    <tr> 
-        <th>抽象</th>  
-        <td>逻辑结构</td> 
-        <td>基本运算</td>
-    </tr>
-    <tr> 
-        <th>实现</th>  
-        <td>存储结构</td> 
-        <td>算法</td>
-    </tr>
-    <tr> 
-        <th>评价</th>  
-        <td colspan="2">不同数据结构的比较及算法的分析</td> 
-    </tr>
-</table>
+<div>
+    <table>
+        <tr> 
+            <th>层次\要素</td>  
+            <th>数据表示</td> 
+            <th>数据处理</td>
+        </tr>
+        <tr> 
+            <th>抽象</th>  
+            <td>逻辑结构</td> 
+            <td>基本运算</td>
+        </tr>
+        <tr> 
+            <th>实现</th>  
+            <td>存储结构</td> 
+            <td>算法</td>
+        </tr>
+        <tr> 
+            <th>评价</th>  
+            <td colspan="2">不同数据结构的比较及算法的分析</td> 
+        </tr>
+    </table>
+</div>
 
 ## 1.2 基本概念和术语
 
