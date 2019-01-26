@@ -8,13 +8,13 @@
 
 - [Electric Circuit](./ElectricCircuit.md)
 
-- [Digital Circuit Technology](./404.html)
-
 - [Analog Electronic Technology](./AnalogElectronicTechnology.md)
 
-- [Linux Notes](./LinuxNotes.md)
+- [Digital Electronic Technology](./404.html)
 
 - [Data Structures](./DataStructures.md)
+
+- [Linux Notes](./LinuxNotes.md)
 
 - Quantum Manchanics
 
