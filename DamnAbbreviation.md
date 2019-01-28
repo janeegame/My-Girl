@@ -79,6 +79,12 @@ JTAG(Join Test Action Group)
 FRAM(ferromagnetic Ramdom Access Memory)
 : 铁电存储器
 
+VCC(Votage Current Condensor)
+: 电压蓄电器
+
+VDD(Voltage Drain)
+: 漏压,通常指器件电源电压
+
 # inMSP430
 RTC(Real-Time Clock)
 
