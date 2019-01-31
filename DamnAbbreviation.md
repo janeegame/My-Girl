@@ -85,6 +85,9 @@ VCC(Votage Current Condensor)
 VDD(Voltage Drain)
 : 漏压,通常指器件电源电压
 
+BJT(bipolar junction transistor)
+: 双极型晶体管
+
 # inMSP430
 RTC(Real-Time Clock)
 
