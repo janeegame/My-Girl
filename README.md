@@ -2,9 +2,7 @@
 
 --------
 
-# Welcome to DemCharlie's Page
-
-this page includes my daily study notes
+# Records my daily study notes
 
 - [Damn Abbreviations](./DamnAbbreviation.md)
 
