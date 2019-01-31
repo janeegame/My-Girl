@@ -2,7 +2,7 @@
 
 --------
 
-# this page includes my daily study notes
+# This page includes my daily study notes
 
 - [Damn Abbreviations](./DamnAbbreviation.md)
 
