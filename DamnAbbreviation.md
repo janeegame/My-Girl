@@ -1,4 +1,6 @@
-%Abbreviations
+'''Abbreviations'''
+
+--------
 
 # inInternet
 
