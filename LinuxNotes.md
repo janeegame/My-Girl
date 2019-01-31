@@ -1,4 +1,4 @@
-% LinuxNotes
+'''LinuxNotes'''
 --------
 # 1. 用户
 
