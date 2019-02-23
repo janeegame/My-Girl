@@ -87,8 +87,6 @@ VCC(Votage Current Condensor)
 VDD(Voltage Drain)
 : 漏压,通常指器件电源电压
 
-BJT(bipolar junction transistor)
-: 双极型晶体管
 
 # inMSP430
 RTC(Real-Time Clock)
@@ -108,6 +106,30 @@ PMM(Power-Management Module)
 SVS(Supply Voltage Supervisor)
 
 BOR(Brownout Recet Circuit)
+
+# inElectricCircuit
+
+BJT(Bipolar Junction Transistor)
+: 晶体管
+
+UJT(Unijunction Transistor)
+: 单结晶体管
+
+SCR(Silicon Controlled Rectifier)
+: 硅可控元件  也叫晶体闸流管,晶闸管(Thyristor)
+
+FET(Field Effect Transistor)
+: 场效应管
+
+JFET(Junction Field Effect Transistor)
+: 结型场效应管
+
+IGFET(Insulated Gate Field Transistor)
+: 绝缘栅型场效应管  也叫MOS管
+
+MOS(Metal-Oxide-Semiconductor)
+: 金属氧化物半导体
+
 
 
 
