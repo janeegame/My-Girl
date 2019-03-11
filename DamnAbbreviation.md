@@ -130,6 +130,9 @@ IGFET(Insulated Gate Field Transistor)
 MOS(Metal-Oxide-Semiconductor)
 : 金属氧化物半导体
 
+# others
+
+BOM(Bill of Materil):报目表,物料清单
 
 
 
