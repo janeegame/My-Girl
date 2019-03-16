@@ -132,8 +132,14 @@ MOS(Metal-Oxide-Semiconductor)
 
 # others
 
-BOM(Bill of Materil):报目表,物料清单
+BOM(Bill of Materil)
+: 报目表,物料清单
 
+SPDT(Single Pole Double Throw)
+: 单刀双掷
+
+DPDT(Double Pole Double Throw)
+: 双刀双掷
 
 
 
