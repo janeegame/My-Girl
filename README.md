@@ -21,3 +21,7 @@
 # Can you find me in this picture ?
 
 ![找不到图片](./索维尔会议.jpg)
+
+# TEST FOR SVG
+
+![找不到图片](./test.svg)

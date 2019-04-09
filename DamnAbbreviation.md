@@ -135,11 +135,20 @@ TVS(Transient Voltage Suppressor)
 
 # others
 
-BOM(Bill of Materil):报目表,物料清单
+BOM(Bill of Materil)
+: 报目表,物料清单
 
+<<<<<<< HEAD
 DFP(Downstream Facing Port): 下行端口,也可以理解为Host
 
 UFP(Upstream Facing Port): 上行端口,也可以理解为Device
+=======
+SPDT(Single Pole Double Throw)
+: 单刀双掷
+
+DPDT(Double Pole Double Throw)
+: 双刀双掷
+>>>>>>> c8e81bc095bb45924c1aa4ed1e5e249e5c7ee93a
 
 
 
