@@ -130,10 +130,16 @@ IGFET(Insulated Gate Field Transistor)
 MOS(Metal-Oxide-Semiconductor)
 : 金属氧化物半导体
 
+TVS(Transient Voltage Suppressor)
+:瞬变电压抑制二极管
+
 # others
 
 BOM(Bill of Materil):报目表,物料清单
 
+DFP(Downstream Facing Port): 下行端口,也可以理解为Host
+
+UFP(Upstream Facing Port): 上行端口,也可以理解为Device
 
 
 
