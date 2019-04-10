@@ -76,7 +76,7 @@ MUX(multiplexer)
 : 数据选择器
 
 SWD(Serial Wire Debug)
-: 调试程序
+: 串行调试
 
 JTAG(Join Test Action Group)
 : 调试程序
