@@ -79,7 +79,10 @@ SWD(Serial Wire Debug)
 : 串行调试
 
 JTAG(Join Test Action Group)
-: 调试程序
+: 联合测试行动小组
+
+RDI(Remote Debug Interface)
+: 远程调试接口
 
 FRAM(ferromagnetic Ramdom Access Memory)
 : 铁电存储器
