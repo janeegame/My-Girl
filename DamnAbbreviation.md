@@ -94,7 +94,8 @@ VDD(Voltage Drain)
 : 漏压,通常指器件电源电压
 
 
-# inMSP430
+# inIntergratedCircuit
+
 RTC(Real-Time Clock)
 
 LPM(Low-Power Modes)
@@ -112,6 +113,16 @@ PMM(Power-Management Module)
 SVS(Supply Voltage Supervisor)
 
 BOR(Brownout Recet Circuit)
+
+DMA(Direct Memory Access)
+
+SSI(Sychronous Serial Interface)
+
+CAN(Controller Area Network)
+
+QEI(Quadrature Encoder Interface)
+
+MAC(Media Access Control)
 
 # inElectricCircuit
 
