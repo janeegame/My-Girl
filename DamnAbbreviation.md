@@ -124,6 +124,8 @@ QEI(Quadrature Encoder Interface)
 
 MAC(Media Access Control)
 
+IrDa(Infrared Data Association)
+
 # inElectricCircuit
 
 BJT(Bipolar Junction Transistor)
@@ -167,7 +169,8 @@ SPDT(Single Pole Double Throw)
 DPDT(Double Pole Double Throw)
 : 双刀双掷
 
-
+CSV(Comma Separated Value)
+: 一种文件格式
 
 
 
