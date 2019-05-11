@@ -126,6 +126,30 @@ MAC(Media Access Control)
 
 IrDa(Infrared Data Association)
 
+FPU(Floating-Point Unit)
+
+MPU(Memory Protection Unit)
+
+NVIC(Nested Vectored Interrupt Controller)
+
+ISR(Interrupt Service Routine)
+
+NMI(non-maskable interruput)
+
+SCB(System Control Block)
+
+CRC(Cyclic Redundancy Check)
+
+FIFO(First Input/First Output)
+
+IR(Instruction Register)
+
+SIP(Serial IR)
+
+ECUS(Electronic Control Units)
+
+AES(Advanced Encryption Standard)
+
 # inElectricCircuit
 
 BJT(Bipolar Junction Transistor)
