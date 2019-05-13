@@ -130,6 +130,8 @@ FPU(Floating-Point Unit)
 
 MPU(Memory Protection Unit)
 
+ETM(Embedded Trace Macrocell)
+
 NVIC(Nested Vectored Interrupt Controller)
 
 ISR(Interrupt Service Routine)
