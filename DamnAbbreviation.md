@@ -1,6 +1,5 @@
-'''Abbreviations'''
-
---------
+# Abbreviations
+=====================================
 
 # inInternet
 
