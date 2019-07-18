@@ -1,5 +1,5 @@
-# DemCharlie's Page
-=======================
+DemCharlie's Page
+====================================================
 
 
 ## Records my daily study notes
